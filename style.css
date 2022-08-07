@@ -378,12 +378,17 @@ nav {
         justify-content: flex-end;
         align-items: center;
     }
-
+    .menu ul li {
+        color: white;
+        display: block;
+        text-decoration: none;
+        padding: 20px 10px;
+        transition: background 1s;
+        margin-top: auto;
+    }
     .menu ul li a {
-        padding: 0 1em;
         border-bottom: none;
     }
-
     .menu ul li a:hover {
         background-color: black;
     }
