@@ -61,7 +61,8 @@ body {
 }
 
 .item a:hover {
-    color: white;
+    color: black;
+    background-color: white;
 }
 
 .stars {
