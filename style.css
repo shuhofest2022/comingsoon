@@ -61,8 +61,7 @@ body {
 }
     
 .top-header {
-    color: rgb(133,153,187);
-    z-index: ;
+    background-color: rgb(133,153,187);
     box-sizing: border-box;
     left: 0;
     top: 0;
@@ -76,8 +75,7 @@ body {
 
 @media (min-width: 700px) {
     .top-header {
-        color: rgb(133,153,187);
-    z-index: 99999999;
+    background-color: rgb(133,153,187);
     box-sizing: border-box;
     left: 0;
     top: 0;
